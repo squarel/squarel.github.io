@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[sed-n]]></title>
+  <link href="http://blog.sed-n.com/atom.xml" rel="self"/>
+  <link href="http://blog.sed-n.com/"/>
+  <updated>2014-05-24T16:16:00-04:00</updated>
+  <id>http://blog.sed-n.com/</id>
+  <author>
+    <name><![CDATA[squarel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
