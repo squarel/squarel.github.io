@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://squarel.github.io
-title: My Octopress Blog
+url: http://blog.sed-n.com
+title: sed-n
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: squarel
 simple_search: https://www.google.com/search
 description:
 
@@ -90,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: sedncom
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
